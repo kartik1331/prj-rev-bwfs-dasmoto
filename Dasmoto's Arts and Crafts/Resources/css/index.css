@@ -1,0 +1,17 @@
+.header{
+  background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  background-size:cover;
+  height: 300px;
+}
+h1{
+  font-size: 100px;
+  font-style: oblique;
+  color: yellow;
+  text-align: center;
+}
+strong{
+  color: blue;
+}
+h2{
+  background-color: yellow;
+}
